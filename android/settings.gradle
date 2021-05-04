@@ -1,0 +1,3 @@
+rootProject.name = 'pro_wrestling_trivi_26108'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
